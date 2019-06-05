@@ -2,7 +2,7 @@
 
 This program changes the RGB LEDS for Corsair Keyboards based on a Nvidia GPU temperature.
 Blue = Cool. Red = hot.
-Written by Bigfootmandude based off an NvAPI example on stack overflow, and the examples in the Corsair Cue SDK.
+Written by David Keizer based off an NvAPI example on stack overflow, and the examples in the Corsair Cue SDK.
 
 This may require the corsair cue SDK and NvAPI to be installed in the same directory.
 I have no idea how this will work on other computers.
